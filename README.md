@@ -1,2 +1,2 @@
-# initial-repo
-For learning purposes
+# plugin-development
+For developing plugins for minecraft
