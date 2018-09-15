@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FriendlyPlugin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FriendlyPlugin_jar</output-path>
+    <root id="archive" name="FriendlyPlugin.jar">
+      <element id="module-output" name="FriendlyPlugin" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

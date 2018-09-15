@@ -1,0 +1,8 @@
+name: FriendlyPlugin
+author: rbnsmls
+version: 0.1
+main: com.rbnsmls.friendlyplugin.Main
+commands:
+  hi:
+    description: Friendly greeting.
+    aliases: [hello, yo]
